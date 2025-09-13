@@ -2,8 +2,6 @@ This profile showcases personal open-source contributions.
 
 <hr>
 
-<hr>
-
 To see professional contributions, check my other profiles:
 <ul>
   <li><a href="https://github.com/dinhani-cw">@dinhani-cw</li>
