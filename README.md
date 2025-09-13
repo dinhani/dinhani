@@ -1,6 +1,6 @@
 This profile showcases personal open-source contributions.
 
-Check my other profiles to see other professional contributions:
+Check my other profiles to see professional contributions:
 
 <ul>
   <li><a href="https://github.com/dinhani-cw">@dinhani-cw</li>
